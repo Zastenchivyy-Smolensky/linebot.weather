@@ -1,1 +1,2 @@
-web: python main.py,scw.py
+web: python main.py
+web: python scw.py
